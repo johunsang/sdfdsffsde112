@@ -2,13 +2,13 @@
   "$schema": "https://onesaas.kr/schema/onesaas.json",
   "schemaVersion": "1.0.0",
   "project": {
-    "id": "dasddaaaaa1",
-    "name": "dasddaaaaa1",
-    "slug": "dasddaaaaa1",
-    "company": "dddd",
-    "companyEn": "dddd",
-    "email": "support@dasddaaaaa1.com",
-    "createdAt": "2026-01-07T17:14:08.205Z",
+    "id": "asdsad111",
+    "name": "asdsad111",
+    "slug": "asdsad111",
+    "company": "sssss",
+    "companyEn": "sssss",
+    "email": "support@asdsad111.com",
+    "createdAt": "2026-01-07T17:24:53.056Z",
     "generatedBy": "onesaas-wizard"
   },
   "template": {
@@ -17,8 +17,8 @@
     "source": "https://github.com/johunsang/onesass-starter"
   },
   "theme": {
-    "id": "minimal",
-    "appliedAt": "2026-01-07T17:14:08.205Z"
+    "id": "fintech",
+    "appliedAt": "2026-01-07T17:24:53.056Z"
   },
   "features": {
     "auth": {
