@@ -3,16 +3,16 @@
 @tailwind utilities;
 
 /* THEME START */
-/* Applied theme: fintech */
-/* Neon Theme */
+/* Applied theme: minimal */
+/* Minimal Theme */
 :root {
-  --color-bg: #09090b;
-  --color-bg-secondary: #18181b;
-  --color-text: #fafafa;
-  --color-text-secondary: #a1a1aa;
-  --color-accent: #00ff88;
-  --color-accent-hover: #00cc6a;
-  --color-border: #27272a;
+  --color-bg: #fafafa;
+  --color-bg-secondary: #f4f4f5;
+  --color-text: #0a0a0a;
+  --color-text-secondary: #52525b;
+  --color-accent: #0a0a0a;
+  --color-accent-hover: #27272a;
+  --color-border: #e4e4e7;
 }
 /* THEME END */
 
